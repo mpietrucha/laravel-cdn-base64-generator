@@ -1,0 +1,19 @@
+{
+  "name": "laravel-cdn-base64-generator",
+  "version": "1.0.0",
+  "description": "Default frontend generator for mpietrucha/laravel-cdn PHP package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpietrucha/laravel-cdn-base64-generator.git"
+  },
+  "author": "Michał Pietrucha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpietrucha/laravel-cdn-base64-generator/issues"
+  },
+  "homepage": "https://github.com/mpietrucha/laravel-cdn-base64-generator#readme"
+}
